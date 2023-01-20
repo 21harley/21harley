@@ -12,8 +12,8 @@ class John21177:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Vue', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Express'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': [ 'Nginx', 'Jenkins', 'GitHub Actions', 'Vercel', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'bitbucket'],
+            'devops': [ 'Nginx', 'GitHub Actions', 'Vercel', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'bitbucket'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC']
