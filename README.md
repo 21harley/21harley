@@ -6,7 +6,7 @@ class John21177:
     def __init__(self):
         self.username = '21harley'
         self.name = 'John Llanes'
-        self.web = 'https://rafnixg.dev](https://vercel.com/21harley/potafolio-2-0-html-css-js'
+        self.web = ['https://vercel.com/21harley/potafolio-2-0-html-css-js']
         self.twitter = '@john21177'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Vue', 'Boostrap', 'TailWind'],
