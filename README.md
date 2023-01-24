@@ -27,7 +27,4 @@ if __name__ == '__main__':
 
 
 ```
-## Get in touch
-
-## Latest Posts (Spanish)
 
