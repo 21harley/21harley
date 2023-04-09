@@ -13,7 +13,7 @@ class John21177:
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Express'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': [ 'Nginx', 'GitHub Actions', 'Vercel', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'bitbucket'],
+            'tools': ['GIT', 'GitHub', 'bitbucket'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC']
